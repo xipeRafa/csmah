@@ -29,23 +29,20 @@ export default function Navbar() {
             <div className={isActive ? "menu " : "menu display"} onClick={InWidth}>
 
 
-                <NavLink to="/RealControlF" onClick={()=>window.scrollTo(0,0)}> Inicio </NavLink>
+                <NavLink to="/csmah" onClick={()=>window.scrollTo(0,0)}> Inicio </NavLink>
 
-                <NavLink to="/RealControlF/servicios" onClick={()=>window.scrollTo(0,0)}> Servicios </NavLink>
+                <NavLink to="/csmah/comedor" onClick={()=>window.scrollTo(0,0)}> Comedor </NavLink>
 
-                <NavLink to="/RealControlF/tipos" onClick={()=>window.scrollTo(0,0)}> Tipos de Plagas </NavLink>
+                <NavLink to="/csmah/zonanueve" onClick={()=>window.scrollTo(0,0)}> Zona Nueve </NavLink>
 
-                <NavLink to="/RealControlF/licencias" onClick={()=>window.scrollTo(0,0)}> Licencias </NavLink>
+                <NavLink to="/csmah/camsvi" onClick={()=>window.scrollTo(0,0)}> CAMSVI </NavLink>
 
-                <NavLink to="/RealControlF/clientes" onClick={()=>window.scrollTo(0,0)}> Clientes </NavLink>
+                <NavLink to="/csmah/historial" onClick={()=>window.scrollTo(0,0)}> Historial </NavLink>
 
-                <NavLink to="/RealControlF/contacto" onClick={()=>window.scrollTo(0,0)}> Contacto </NavLink>
+                <NavLink to="/csmah/eventos" onClick={()=>window.scrollTo(0,0)}> Eventos </NavLink>
 
-                {/*<NavLink to="/AhilloPage/gobierno">    Gobierno </NavLink>
+                <NavLink to="/csmah/contacto" onClick={()=>window.scrollTo(0,0)}> Contacto </NavLink>
 
-                <NavLink to="/AhilloPage/PGP"> PGP 2031-2033 </NavLink>
-
-                <NavLink to="/AhilloPage/provincia"> Provincia Eclesiástica de Hermosillo </NavLink>*/}
 
             </div>
         </div>

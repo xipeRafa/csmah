@@ -21,7 +21,10 @@
     font-size: 12px;
     text-transform: uppercase;
     padding: 0px;
-    background-color: var(--logoColor);
+/*    background-color: var(--logoColor);*/
+background-image: linear-gradient(180deg,#04e2f7, #1448d8);
+
+
     user-select: none;
     border-top:1px solid black;
 }
@@ -33,7 +36,7 @@
     height: 40px;
     padding: 5px 10px;
     margin: 0 auto;
-     background-color: var(--logoColor);
+    background-image: linear-gradient(180deg,#04e2f7, #1448d8);
     align-items: center;
     cursor: pointer;
     user-select: none;
