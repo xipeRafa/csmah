@@ -10,15 +10,8 @@ export default function Historial() {
 
 
             <div>
-                <p>Historial</p>
-                 <p>Historial</p>
-                  <p>Historial</p>
-                   <p>Historial</p>
-                 <p>Historial</p>
-                  <p>Historial</p>
-                   <p>Historial</p>
-                 <p>Historial</p>
-                  <p>Historial</p>
+              
+               <iframe className='historial' src="https://xiperafa.github.io/csmah-historial/"></iframe>
                   
 
                   
