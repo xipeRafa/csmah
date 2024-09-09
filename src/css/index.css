@@ -64,6 +64,10 @@ html{
 
 
 body{
+  background-image: url("../imgs/sma.png");
+   background-repeat: repeat-y;
+      background-position-x: right;
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -75,7 +79,7 @@ body{
   width: 90%;
   max-width: 1280px;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 60px;
   box-sizing: border-box;
 
 }

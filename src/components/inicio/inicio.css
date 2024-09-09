@@ -20,9 +20,24 @@
 	margin-top: 10px;
 }
 
+.inicio>h2{
+	text-align: left;
+	font-family: fangsong;
+	margin-left: 0;
+}
+
 
 @media(max-width:900px){
 	.inicio>span{
-		font-size: 10px;
+		font-size: 12px;
 	}
+	body{
+		background-image: none!important;
+	}
+
+	.inicio>h2{
+		text-align: center;
+	}
+
 }
+
