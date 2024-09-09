@@ -1,0 +1,28 @@
+
+.inicio{
+	margin-bottom: 50px;
+}
+
+
+.inicio>span{
+	display: block;
+	padding: 20px 4px;
+}
+
+
+.inicio>span>p{
+	font-weight: bold;
+}
+
+.inicio>span>img{
+	width: 160px;
+	display: block;
+	margin-top: 10px;
+}
+
+
+@media(max-width:900px){
+	.inicio>span{
+		font-size: 10px;
+	}
+}

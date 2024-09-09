@@ -1,5 +1,6 @@
 import './footer.css'
- import img1 from '../../imgs/1.png'
+
+import img1 from '../../imgs/1.png'
 
 
 
