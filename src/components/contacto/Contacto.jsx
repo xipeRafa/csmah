@@ -6,12 +6,8 @@ export default function Contacto() {
 
 
 	  return (
-
-
-
             <div>
                   <img  src={mmsv} />
-
             </div>
 	  	)
 }

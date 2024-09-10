@@ -8,3 +8,19 @@
 	text-align: center;
 	padding: 40px 0;
 }
+
+
+.imgContainerCamsvi{
+	text-align: center;
+	width: 100%;
+}
+
+.imgContainerCamsvi>img{
+	width: 400px;
+}
+
+@media(max-width:1000px){
+	.imgContainerCamsvi>img{
+		width: 300px;
+	}
+}

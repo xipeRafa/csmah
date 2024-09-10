@@ -12,7 +12,7 @@ export default function Footer() {
 
 
             <footer>
-             <div className='imgContainer'>
+             <div className='imgContainerFooter'>
 
                  <img  src={img1} />
                 </div> 
