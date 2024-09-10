@@ -22,7 +22,7 @@
     text-transform: uppercase;
     padding: 0px;
 /*    background-color: var(--logoColor);*/
-    background-image: linear-gradient(180deg,#7ed2fc, #1448d8);
+    background-image: linear-gradient(0deg,#7ed2fc, #1448d8);
 
 
     user-select: none;

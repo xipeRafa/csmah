@@ -26,6 +26,13 @@
 	margin-left: 0;
 }
 
+.mmsvContainer{
+	text-align: left;
+}
+
+.mmsv{
+	width: 200px;
+}
 
 @media(max-width:900px){
 	.inicio>span{
@@ -37,6 +44,12 @@
 
 	.inicio>h2{
 		text-align: center;
+	}
+	.mmsvContainer{
+		text-align: center;
+	}
+	.inicio>h2{
+		margin-left: 20px;
 	}
 
 }
