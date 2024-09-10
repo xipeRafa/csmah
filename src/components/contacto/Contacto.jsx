@@ -1,6 +1,6 @@
 import './contacto.css'
 
-
+import mmsv from '../../imgs/mmsv.png'
 
 export default function Contacto() {
 
@@ -10,17 +10,7 @@ export default function Contacto() {
 
 
             <div>
-                <p>Contacto</p>
-                 <p>Contacto</p>
-                  <p>Contacto</p>
-                   <p>Contacto</p>
-
-                    <p>Contacto</p>
-                     <p>Contacto</p>
-
-                      <p>Contacto</p>
-                       <p>Contacto</p>
-                        <p>Contacto</p>
+                  <img  src={mmsv} />
 
             </div>
 	  	)
