@@ -17,14 +17,14 @@ export default function Navbar() {
     return (
         <div className="navBar">
 
-            <div onClick={() => setIsActive(!isActive)} className="hamburger">
+            <NavLink to="/csmah" onClick={() => setIsActive(!isActive)} className="hamburger">
                 <div className="menu-bar">
                     <div className="uno" />
                     <div className="dos" />
                     <div className="tres" />
                 </div>
                 <span className='menuX'>{isActive ? "MENU" : "✘"}</span>
-            </div>
+            </NavLink>
 
             <div className={isActive ? "menu " : "menu display"} onClick={InWidth}>
 

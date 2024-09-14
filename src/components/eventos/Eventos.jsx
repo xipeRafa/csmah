@@ -1,6 +1,6 @@
 import './eventos.css'
 
-
+import tarjeta from '../../imgs/tarjeta.png'
 
 export default function Eventos() {
 
@@ -10,22 +10,8 @@ export default function Eventos() {
 
 
             <div>
-                <p>Eventos</p>
-                 <p>Eventos</p>
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-
-                 <p>Eventos</p>
-                 
+               
+                 <img className='tarjeta' src={tarjeta} />
 
             </div>
 	  	)
