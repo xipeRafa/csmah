@@ -1,6 +1,6 @@
 import './eventos.css'
 
-import tarjeta from '../../imgs/tarjeta.png'
+
 
 export default function Eventos() {
 
@@ -11,7 +11,7 @@ export default function Eventos() {
 
             <div>
                
-                 <img className='tarjeta' src={tarjeta} />
+                <iframe className='comedor' src="#"></iframe> 
 
             </div>
 	  	)
