@@ -1,13 +1,13 @@
-import './contacto.css'
 
-import mmsv from '../../imgs/mmsv.png'
+import './contacto.css'
+import tarjeta from '../../imgs/tarjeta.png'
 
 export default function Contacto() {
 
 
 	  return (
             <div>
-                  <img  src={mmsv} />
+                  <img className='tarjeta' src={tarjeta} />
             </div>
 	  	)
 }
