@@ -13,7 +13,7 @@ export default function Historial() {
               
                <iframe className='historial' src="https://xiperafa.github.io/csmah-historial/"></iframe>
                   
-
+                  
                   
 
 
