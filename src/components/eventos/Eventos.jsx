@@ -11,7 +11,7 @@ export default function Eventos() {
 
             <div>
                
-                {/*<iframe className='comedor' src="#"></iframe> */}
+                <iframe className='comedor' src="https://xiperafa.github.io/csmah-eventos/"></iframe> 
 
             </div>
 	  	)
