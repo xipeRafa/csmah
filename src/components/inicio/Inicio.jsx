@@ -54,7 +54,7 @@ export default function Inicio() {
 
                <span><p>San Juan XXIII</p> Blvd San Pedro y San Pablo<br /> Col. Paseo San Ángel, Las Placitas, Sabados 7:00 AM <br />Pedro Blas Esquivel. 6623 70 33 95 <img src={sj23} />   <hr /></span>     
 
-
+               
           </div>
 
 

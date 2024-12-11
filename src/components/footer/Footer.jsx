@@ -17,7 +17,8 @@ export default function Footer() {
                  <img  src={img1} />
                 </div> 
                   
-					<p>Caballeros de San Miguel Arcangel Hermosillo Sonora Mexico </p>	
+					<p>Caballeros de San Miguel Arcangel Hermosillo Sonora Mexico </p>
+                    <a href='https://www.facebook.com/profile.php?id=61570413000244' target='_blank' >Facebook</a>	
 
             </footer>
 	  	)
